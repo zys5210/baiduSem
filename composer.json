@@ -1,0 +1,21 @@
+{
+    "name": "zys5210/baiduSem",
+    "description": "baidu sem service",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","baiduSem"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "song",
+            "email": "53804059@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "zys5210\\baiduSem\\": ""
+        }
+    }
+}
